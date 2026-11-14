@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter checkpoint folders
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
